@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [https://pujann.netlify.app/](https://pujann.netlify.app/)
 
-- ⚡ Fun fact **I enjoy Web Development, programming, and watching anime**
+- ⚡ Fun fact **I am striving to be the best software developer as possible**
 
 
 <h3 align="left">Languages and Tools That I Know or Have Experience With:</h3>
