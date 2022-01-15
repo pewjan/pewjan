@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pujan</h1>
 <h3 align="center">I am a Computer Science student from United States, who wants to improve!</h3>
 
-- 🌱 I’m going to be learning **TailWindCSS, Unity Game Development,Machine Learning, Mobile App Development using React, Postgres SQL**
+- 🌱 I’m going to be learning **TailWindCSS, Unity Game Development, Machine Learning, Mobile App Development using React, Postgres SQL in the future**
 
 - 👨‍💻 All of my projects are available at [https://pujann.netlify.app/](https://pujann.netlify.app/)
 
-- 📫 How to reach me **Linkedin or GitHub**
+- 📫 How to reach me **[Linkedin](https://www.linkedin.com/in/pujan-nepal-a82979220/) or [GitHub](https://github.com/pewjan)**
 
 - 📄 Know about my experiences [https://pujann.netlify.app/](https://pujann.netlify.app/)
 
