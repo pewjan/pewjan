@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pujan</h1>
-<h3 align="center">I am a Computer Science student from United States, who wants to improve!</h3>
+<h3 align="center">I am a Computer Science student from United States!</h3>
 
 - 🌱 I’m going to be learning **TailWindCSS, NextJS, Machine Learning, Mobile App Development using React, Postgres SQL in the future**
 
