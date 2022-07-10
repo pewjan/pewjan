@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pujan</h1>
 <h3 align="center">I am a Computer Science student from United States!</h3>
 
-- 🌱 I’m going to be learning **NextJS, Machine Learning, Mobile App Development using React, Postgres SQL in the future**
+- 🌱 I’m going to be learning **NextJS, Machine Learning, Mobile App Development using React Native, Postgres SQL in the future**
 
 - 👨‍💻 All of my projects are available at [https://pujann.netlify.app/](https://pujann.netlify.app/)
 
